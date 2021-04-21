@@ -1,0 +1,86 @@
+.pacific{
+    color:rgb(64, 15, 201);
+    background-image:url(../images/comlux.jpg);
+    padding: 270px;
+    background-size: cover;
+    background-attachment:fixed;
+}
+.cathay{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(255, 51, 0);
+    margin:0%;
+    padding: 0%;
+}
+h2{
+    text-align: center;
+    color: rgb(206, 28, 28);
+}
+h3{
+    text-align: justify;
+    color:#ff0707;
+    font-style:bold;
+}
+ul.nav{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+ul.nav li{
+    border-right: 1px salmon;
+    float: right;
+}
+ul.nav a{
+    display:block;
+    padding: 028px;
+    color: steelblue;
+    text-decoration: none;
+}
+ul.nav a:hover
+ul.nav li.current a{
+    background:seagreen;
+}
+.name1{
+    background-image: url(../images/NAS.jpg);
+    padding:270px;
+    background-size: cover;
+    background-image: fixed;
+    color:rgba(221, 12, 12, 0.87);
+    text-align:center;
+
+}
+.name2{
+    background-image: url(../images/night.jpg);
+    padding:265px;
+    background-size: cover;
+    background-image: fixed;
+    color:rgb(248, 85, 9);
+    text-align:center;
+}
+a{
+    color: rgb(241, 61, 7);
+    font-size: 20px;
+}
+.name3{
+    background-image: url(../images/gate.jpg);
+    padding: 187px;
+    color:rgb(3, 3, 2);
+    font-size: x-large;
+}
+.name4 {
+    background-image: url(../images/anthor.jpg);
+    padding:250px;
+    background-size: cover;
+    background-attachment: fixed;
+    color:rgba(255, 0, 21, 0.733);
+ }
+
+table,th,td{
+        border: 1px,solidblack;
+        padding:15px;
+        border-spacing:5px;
+    
+}
